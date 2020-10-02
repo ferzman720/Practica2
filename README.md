@@ -1,13 +1,13 @@
 # Practica2
 Pseudocódigo
-- **Determinar el mayor de dos números**
-Entradas 
-(x,y) Números que van a ser comparados 
-Salidas 
-If x>y : devolver X es mayor que Y
-If x<y : devolver Y es mayor que X
-Else : es el mismo número.
-Fin
+1. **Determinar el mayor de dos números**
+*Entradas 
+*(x,y) Números que van a ser comparados 
+*Salidas 
+*If x>y : devolver X es mayor que Y
+*If x<y : devolver Y es mayor que X
+*Else : es el mismo número.
+*Fin
 
 - **Determinar el mayor de tres números**
 - Entradas
