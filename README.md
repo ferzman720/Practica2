@@ -12,6 +12,7 @@ Pseudocódigo
 2. **Determinar el mayor de tres números**
 - Entradas
 - (a,b,c) Números que van a ser compados 
+- salidas
 - if (a>b & a>c)  devolver:  a es mayor
 - if (b>a & b>c ) devolver:  b es mayor 
 - if (c>a & c>c) devolver:  c es mayor 
@@ -22,14 +23,16 @@ Pseudocódigo
  *  n : Número
 *  a: Cuenta los divisores del numero 
 * i: modulo 
-* El ciclo  for(i=1;i<(n+1);i++)  determina si es primo y si el modulo es igual a cero   if(n%i==0 le aumenta a+ 1 a la división y si a = 2 entonces es primo  if(a=2)
+* salidas
+* El ciclo  for(i=1;i<(n+1);i++)  determina si es primo y si el modulo es igual a cero   if(n%i==0) le aumenta a++ a la división y si a = 2 entonces es primo  if(a=2)
  *  Fin
 
 4. **Determinar si dos cadenas son palíndromas** 
 - Entrada
 - c= Cadena 
+- salidas 
 - if str(c) == str(c)[::-1]: devolver: la palabra es palindroma 
-- si no : devolver : La palabra no es palindroma 
+- else  : devolver : La palabra no es palindroma 
 
 
 
